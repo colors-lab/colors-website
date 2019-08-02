@@ -62,7 +62,7 @@
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 17pt;
+		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #000;
@@ -75,7 +75,7 @@
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 17pt;
+		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #000;
@@ -723,7 +723,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				font-size: 13pt;
 			}
 
 		/* Header */
@@ -1106,4 +1106,13 @@
 				}
 			}
 
+	}
+
+	hr {
+		display: block;
+		height: 1px;
+		border: 0;
+		border-top: 1px solid #ccc;
+		margin: 1em 0;
+		padding: 0;
 	}
