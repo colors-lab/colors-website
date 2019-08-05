@@ -6,86 +6,96 @@ icon: fa-user
 order: 4
 ---
 
-<p>
-<img src="assets/images/emre.jpg" alt="Emre" title="Emre Ugur" height="120" width="100" align="left" style="padding-right: 20px; padding left: 20px;">  
+<style>
+.column {
+  float: left;
+  width: 15%;
+  padding-left: 40px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>
+
+<p>
+<img src="assets/images/emre.jpg" alt="Emre" title="Emre Ugur" height="180" width="150" align="left" style="padding-right: 20px; padding left: 20px;">  
+<br><br>
 <strong><font size="5"><a href="https://www.cmpe.boun.edu.tr/~emre/index.html">Emre Ugur</a></font></strong>
 <br>
 Head of Research Group
-<br>
-Office:
-<br>
-Phone:
-</p>
+<br><br>
 <hr>
 
 <strong><font size="6">PhD Students</font></strong>
-
-
-<p>
-<img src="assets/images/ece.jpeg" alt="Ece" title="Ece Ada" height="120" width="100" align="left" style="padding-right: 20px; padding left: 20px;">  
-
-<strong><font size="5">Ece Ada</font></strong>
-
 <br>
-Office:
-<br>
-Phone:
 
-</p>
+<div class="row">
+  <div class="column">
+    <a href="https://serkanbugur.github.io/">
+  <img src='assets/images/serkan.png' style='width: 140px;  height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Serkan Bugur</div>
+</a>
+  </div>
+  <div class="column">
+    <a href="https://scholar.google.com.tr/citations?user=B23iqYwAAAAJ&hl=en">
+  <img src='assets/images/alper.jpeg' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Alper Ahmetoglu</div>
+</a>
+  </div>
+  <div class="column">
+    <a>
+  <img src='assets/images/ece.jpeg' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Ece Ada</div>
+</a>
+  </div>
+</div>
+
 <hr>
-
-<p>
-<img src="assets/images/alper.jpeg" alt="Alper" title="Alper Ahmetoglu" height="120" width="100" align="left" style="padding-right: 20px; padding left: 20px;">  
-
-<strong><font size="5"><a href="https://scholar.google.com.tr/citations?user=B23iqYwAAAAJ&hl=en">Alper Ahmetoglu</a></font></strong>
-
-<br>
-Office:
-<br>
-Phone:
-
-</p>
-<hr>
-
-<p>
-<img src="assets/images/serkan.png" alt="Serkan" title="Serkan Bugur" height="120" width="100" align="left" style="padding-right: 20px; padding left: 20px;">  
-
-<strong><font size="5"><a href="https://serkanbugur.github.io/">Serkan Bugur</a></font></strong>
-
-<br>
-Office:
-<br>
-Phone:
-
-</p>
-<hr>
-
 
 <strong><font size="6">MSc Students</font></strong>
-
-
-<p>
-<img src="assets/images/tuluhan.png" alt="tuluhan" title="Tuluhan Akbulut" height="120" width="100" align="left" style="padding-right: 20px; padding left: 20px;">  
-
-<strong><font size="5">Tuluhan Akbulut</font></strong>
-
 <br>
-Office:
-<br>
-Phone:
 
-</p>
-<hr>
 
-<p>
-<img src="assets/images/yunus.jpeg" alt="yunus" title="M. Yunus Seker" height="120" width="100" align="left" style="padding-right: 20px; padding left: 20px;">  
-
-<strong><font size="5">M. Yunus Seker</font></strong>
-
-<br>
-Office:
-<br>
-Phone:
-
-</p>
+<div class="row">
+  <div class="column">
+    <a href="https://scholar.google.com/citations?user=H8NkqvQAAAAJ&hl=tr">
+  <img src='assets/images/yunus.jpeg' style='width: 140px;  height: 140px;'>
+  <div style='width: 130px; text-align: center;'>M. Yunus Seker</div>
+</a>
+  </div>
+  <div class="column">
+    <a href="https://github.com/Fzaero">
+  <img src='assets/images/ahmet.png' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Ahmet Tekden</div>
+</a>
+  </div>
+  <div class="column">
+    <a href='https://melsener.github.io'>
+  <img src='assets/images/melisa_sener.jpg' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Melisa Sener</div>
+</a>
+  </div>
+  <div class="column">
+    <a href='https://www.instagram.com/metetuluhan/?hl=en'>
+  <img src='assets/images/tuluhan.png' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Tuluhan Akbulut</div>
+</a>
+  </div>
+  <div class="column">
+    <a href='https://github.com/Hbasgol'>
+  <img src='assets/images/hamit.png' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Hamit Basgol</div>
+</a>
+  </div>
+  <div class="column">
+    <a href='https://github.com/UtkuBozdogan'>
+  <img src='assets/images/utku.jpeg' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Utku Bozdogan</div>
+</a>
+  </div>
+</div>
