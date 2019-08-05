@@ -3,7 +3,7 @@ title: People
 subtitle:
 layout: "page"
 icon: fa-user
-order: 3
+order: 4
 ---
 
 <p>

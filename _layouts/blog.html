@@ -2,7 +2,6 @@
 layout: default
 ---
 {%- assign _posts = site.posts | sort: 'date' -%}
-{%- include header.html scrolly_nav=_posts -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
@@ -10,13 +9,22 @@ layout: default
 	{%- endif -%}
 	<!-- Posts List -->
 	{%- for _post in _posts -%}
-		
-		{%- capture _subtitle -%}
-
-		{%- endcapture -%}
-		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
-		{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
-		{%- assign _content = _excerpt | append: _link -%}
-		{%- include section.html title=_post.title subtitle=_subtitle content=_post.content -%}
+		{%- if page.title == 'Student Projects' and _post.project_type=='student' -%}
+			{%- capture _subtitle -%}
+			{%- endcapture -%}
+			{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
+			{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
+			{%- assign _content = _excerpt | append: _link -%}
+			{%- include section.html title=_post.title subtitle=_subtitle content=_post.content -%}
+		{%- endif -%}
+		{%- if page.title == 'Projects' and _post.project_type=='normal' -%}
+			{%- capture _subtitle -%}
+			{%- endcapture -%}
+			{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
+			{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
+			{%- assign _content = _excerpt | append: _link -%}
+			{%- include section.html title=_post.title subtitle=_subtitle content=_post.content -%}
+		{%- endif -%}
 	{%- endfor -%}
 </div>
+{%- include header.html scrolly_nav=_posts -%}
