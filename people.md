@@ -99,3 +99,33 @@ Head of Research Group
 </a>
   </div>
 </div>
+
+<hr>
+
+<strong><font size="6">Former Members</font></strong>
+<br>
+<div class="table sectionedit2" ><table class="inline">
+	<tbody>
+    <tr class="row0">
+		<th class="col0 leftalign" style='background:none'> <a href="https://mertimre.github.io/" class="urlextern" title="https://mertimre.github.io/" rel="nofollow">Mert Imre</a> </th><th class="col1 centeralign" style='background:none; color:black;'>  2016-2019    </th>
+	</tr>
+    <tr class="row0">
+		<th class="col0 leftalign" style='background:none'> <a href="http://www.idiap.ch/~hgirgin/" class="urlextern" title="http://www.idiap.ch/~hgirgin/" rel="nofollow">Hakan Girgin</a> </th><th class="col1 centeralign" style='background:none; color:black;'>  2016-2018    </th>
+	</tr>
+    <tr class="row0">
+		<th class="col0 leftalign" style='background:none'> <a href="https://github.com/cagirici" class="urlextern" title="https://github.com/cagirici" rel="nofollow">Erhan Cagirici</a> </th><th class="col1 centeralign" style='background:none; color:black;'>  2016-2018    </th>
+	</tr>
+</tbody></table></div>
+
+
+<strong><font size="6">Interns</font></strong>
+<br>
+<div class="table sectionedit2" ><table class="inline">
+	<tbody>
+    <tr class="row0">
+		<th class="col0 leftalign" style='background:none'> <a href="https://scholar.google.com.tr/citations?user=oZkaOigAAAAJ&hl=en" class="urlextern" title="https://scholar.google.com.tr/citations?user=oZkaOigAAAAJ&hl=en" rel="nofollow">Emir Arditi</a> </th><th class="col1 centeralign" style='background:none; color:black;'>  2018 Summer    </th>
+	</tr>
+    <tr class="row0">
+		<th class="col0 leftalign" style='background:none'> <a href="https://github.com/bilgehannal" class="urlextern" title="https://github.com/bilgehannal" rel="nofollow">Bilgehan Nal</a> </th><th class="col1 centeralign" style='background:none; color:black;'>  2017 Summer    </th>
+	</tr>
+</tbody></table></div>
