@@ -20,6 +20,12 @@ order: 4
   display: table;
 }
 
+@media screen and (max-width: 1200px) {
+  .column {
+    width: 100%;
+  }
+}
+
 </style>
 
 <p>
@@ -48,10 +54,10 @@ Head of Research Group
 </a>
   </div>
   <div class="column">
-    <a>
+
   <img src='assets/images/ece.jpeg' style='width: 140px; height: 140px;'>
   <div style='width: 130px; text-align: center;'>Ece Ada</div>
-</a>
+
   </div>
 </div>
 
@@ -81,10 +87,10 @@ Head of Research Group
 </a>
   </div>
   <div class="column">
-    <a href='https://www.instagram.com/metetuluhan/?hl=en'>
+
   <img src='assets/images/tuluhan.png' style='width: 140px; height: 140px;'>
   <div style='width: 130px; text-align: center;'>Tuluhan Akbulut</div>
-</a>
+
   </div>
   <div class="column">
     <a href='https://github.com/Hbasgol'>
