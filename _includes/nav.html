@@ -50,7 +50,11 @@
         {%- else -%}
           {%- assign _class = 'icon' -%}
         {%- endif -%}
-        <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly"><span class="{{ _class }} {{ _icon }}">{{- _title -}}</span></a></li>
+        {%- if _sect.custom_acronym == nil -%}
+          <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly"><span class="{{ _class }} {{ _icon }}">{{- _title -}}</span></a></li>
+        {%- else -%}
+          <li><a href="#{{- _slug -}}" id="{{- _slug -}}-link" class="scrolly"><span class="{{ _class }} {{ _icon }}">{{- _sect.custom_acronym -}}</span></a></li>
+        {%-endif-%}
         {%- endunless -%}
         {%- endunless -%}
       {%- endfor -%}
