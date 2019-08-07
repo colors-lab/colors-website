@@ -42,7 +42,7 @@ Head of Research Group
 </a>
   </div>
   <div class="column">
-    <a href="https://scholar.google.com.tr/citations?user=B23iqYwAAAAJ&hl=en">
+    <a href="https://alper111.github.io/">
   <img src='assets/images/alper.jpeg' style='width: 140px; height: 140px;'>
   <div style='width: 130px; text-align: center;'>Alper Ahmetoglu</div>
 </a>
