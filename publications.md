@@ -6,8 +6,7 @@ icon: fa-newspaper
 order: 5
 ---
 
-[J]: Journal, [C]: International Conference, [NC]: National Conference, [WS]: Workshop<br><br><center><b>Under Review</b></center><n><br>
-[C] A. E. Tekden, A. Erdem, E. Erdem, M. Imre, M.Y. Seker, E. Ugur, <b>Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects</b>,  under review. <a href="https://www.cmpe.boun.edu.tr/~emre/papers/Tekden-2019.pdf">pdf</a><br>
+[J]: Journal, [C]: International Conference, [NC]: National Conference, [WS]: Workshop
 <center><b>2019</b></center><br>
 [<b>J17</b>] S. Bugur, E. Oztop, Y. Nagai, E. Ugur, <b>Effect regulated projection of robot's action space for production and prediction of manipulation primitives through learning progress and predictability based exploration</b>, IEEE Transactions on Cognitive and Developmental Systems, 2019. <a href="https://www.cmpe.boun.edu.tr/~emre/papers/Bugur-2019-TCDS.pdf">pdf</a> <a href="https://doi.org/10.1109/TCDS.2019.2933900">link</a><br>
 [<b>J16</b>] M.Y. Seker, A.E. Tekden, E. Ugur, <b>Deep Effect Trajectory Prediction in Robot Manipulation</b>, Robotics and Autonomous Systems, 119, pp. 173-184, 2019. <a href="https://www.cmpe.boun.edu.tr/~emre/papers/Seker-2019-ROBOT.pdf">pdf</a> <a href="https://youtu.be/dFPOH1C3DeY">video</a> <a href="https://doi.org/10.1016/j.robot.2019.07.003">link</a><br>
