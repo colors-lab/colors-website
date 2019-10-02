@@ -108,6 +108,32 @@ Head of Research Group
 
 <hr>
 
+<strong><font size="6">Bachelor Students</font></strong>
+<br>
+
+<div class="row">
+  <div class="column">
+    <a href="https://github.com/aysusayin">
+  <img src='assets/images/aysu.jpg' style='width: 140px;  height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Aysu Sayın</div>
+</a>
+  </div>
+  <div class="column">
+    <a href="https://github.com/irmakguzey">
+  <img src='assets/images/irmak.jpg' style='width: 140px; height: 140px;'>
+  <div style='width: 130px; text-align: center;'>Irmak Güzey</div>
+</a>
+  </div>
+  <div class="column">
+
+  <img src='assets/images/ege.jpg' style='width: 140px; height: 140px;  transform: rotate(270deg);'>
+  <div style='width: 130px; text-align: center;'>Ege Onur Taga</div>
+
+  </div>
+</div>
+
+<hr>
+
 <strong><font size="6">Former Members</font></strong>
 <br>
 <div class="table sectionedit2" ><table class="inline">
