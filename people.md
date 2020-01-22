@@ -69,8 +69,8 @@ Head of Research Group
 
 <div class="row">
   <div class="column">
-    <a href="https://scholar.google.com/citations?user=H8NkqvQAAAAJ&hl=tr">
-  <img src='assets/images/yunus.jpeg' style='width: 140px;  height: 140px;'>
+    <a href="https://myunusseker.github.io">
+  <img src='assets/images/yunus.jpg' style='width: 140px;  height: 140px;'>
   <div style='width: 130px; text-align: center;'>M. Yunus Seker</div>
 </a>
   </div>
